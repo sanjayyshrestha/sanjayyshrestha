@@ -1,6 +1,6 @@
 
 
-# 👋 Hello, I’m Sanjay,
+# 👋 Hi, I’m Sanjay,
 
 I’m an aspiring techie with a strong interest in software development and a commitment to continuous learning. Currently building a solid foundation in programming, I’m focused on mastering core concepts and best practices that drive clean, efficient and purposeful code.I value clarity over complexity, quality over shortcuts and steady growth over instant results. While I'm early in my journey, I approach each challenge with discipline, curiosity and respect for the craft.I believe great things are built by learning consistently, working collaboratively and staying grounded.
 # 💻 Tech Stack:
